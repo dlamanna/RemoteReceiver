@@ -1,0 +1,8 @@
+D:\Users\phuzE\Documents\Programming\RemoteReceiver\RemoteReceiver\bin\Release\RemoteReceiver.exe
+D:\Users\phuzE\Documents\Programming\RemoteReceiver\RemoteReceiver\bin\Release\RemoteReceiver.pdb
+D:\Users\phuzE\Documents\Programming\RemoteReceiver\RemoteReceiver\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Users\phuzE\Documents\Programming\RemoteReceiver\RemoteReceiver\obj\x86\Release\RemoteReceiver.Properties.Resources.resources
+D:\Users\phuzE\Documents\Programming\RemoteReceiver\RemoteReceiver\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Users\phuzE\Documents\Programming\RemoteReceiver\RemoteReceiver\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Users\phuzE\Documents\Programming\RemoteReceiver\RemoteReceiver\obj\x86\Release\RemoteReceiver.exe
+D:\Users\phuzE\Documents\Programming\RemoteReceiver\RemoteReceiver\obj\x86\Release\RemoteReceiver.pdb
